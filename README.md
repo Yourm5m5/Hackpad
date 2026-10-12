@@ -1,4 +1,4 @@
-# Hackpad — 3-Key Media Macropad
+# Hackpad —3-Key Media Macropad
 
 Hackpad is an ultra-compact, custom-built 3-key mechanical macropad powered by the **Seeed Studio XIAO RP2040** and running **KMK Firmware**. It features custom Tap Dance functionality, allowing you to seamlessly control volume, track navigation, and media playback with only three physical switches.
 
