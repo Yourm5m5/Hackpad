@@ -6,7 +6,7 @@ A 3-key media macropad built on the Seeed XIAO RP2040, running KMK firmware.
 
 ---
 
-## Day 1 – [date]: Planning, schematic & PCB
+## Day 1 – 11 Oct 2026: Planning, schematic & PCB
 **Time spent:** 1.5 hours
 
 ### What I did
@@ -27,7 +27,7 @@ A 3-key media macropad built on the Seeed XIAO RP2040, running KMK firmware.
 
 ---
 
-## Day 2 – [date]: Case design
+## Day 2 – 12 Oct 2026: Case design
 **Time spent:** 1.5 hours
 
 ### What I did
@@ -51,7 +51,7 @@ A 3-key media macropad built on the Seeed XIAO RP2040, running KMK firmware.
 
 ---
 
-## Day 3 – [date]: Firmware, BOM & README
+## Day 3 – 13 Oct 2026: Firmware, BOM & README
 **Time spent:** 1 hour
 
 ### What I did
