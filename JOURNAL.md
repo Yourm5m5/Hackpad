@@ -67,6 +67,8 @@ A 3-key media macropad built on the Seeed XIAO RP2040, running KMK firmware.
 - How KMK's TapDance works and how to tune tap timing
 - How to design a case around heat-set inserts
 
+<img width="813" height="917" alt="image" src="https://github.com/user-attachments/assets/c1f22125-4093-462e-bb28-02b0096537a0" />
+
 ### Next steps
 - [ ] Order the PCB and parts
 - [ ] Print the case
