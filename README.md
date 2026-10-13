@@ -109,11 +109,4 @@ if __name__ == "__main__":
     keyboard.go()
 ```
 
-## Credits
-I use AI to help me structure my repo
-
-
-
-
-
 
