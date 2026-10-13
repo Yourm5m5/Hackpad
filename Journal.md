@@ -22,8 +22,8 @@ A 3-key media macropad built on the Seeed XIAO RP2040, running KMK firmware.
 - [e.g. the first switch footprint was the wrong spacing, swapped to the MX 1U footprint]
 - [e.g. traces were too close to a mounting hole, rerouted]
 
-![Schematic](images/schematic.png)
-![PCB layout](images/pcb.png)
+<img width="1015" height="492" alt="image" src="https://github.com/user-attachments/assets/493e2647-9d09-40dc-bc78-762cf4e1a041" />
+<img width="608" height="698" alt="image" src="https://github.com/user-attachments/assets/a3647489-39fa-47f9-a7d1-33540bec0660" />
 
 ---
 
@@ -46,8 +46,7 @@ A 3-key media macropad built on the Seeed XIAO RP2040, running KMK firmware.
 | 3 keys only | Covers volume + media without taking much desk space |
 | DSA keycaps | Uniform profile, look clean on a small pad |
 
-![Case model](images/case.png)
-![Render](images/render.png)
+<img width="1398" height="868" alt="image" src="https://github.com/user-attachments/assets/87a658db-8d74-434c-b6cf-118dc318ca08" />
 
 ---
 
